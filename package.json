@@ -1,0 +1,23 @@
+{
+  "name": "202205-w01ch04_fernando-cristian",
+  "version": "1.0.0",
+  "description": "Maquetación Lista de la compra Tendrás que maquetar el HTML y CSS de una aplicación web para gestionar la lista de la compra. Hay que maquetar dos páginas, una con la lista de artículos y otra con un formulario de edición de un artículo. La aplicación sólo se va a ver en móviles, no nos interesa cómo queda en dimensiones grandes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass scss:css -w --no-source-map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristian-tonato/202205-W01CH04_Fernando-Cristian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristian-tonato/202205-W01CH04_Fernando-Cristian/issues"
+  },
+  "homepage": "https://github.com/cristian-tonato/202205-W01CH04_Fernando-Cristian#readme",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  }
+}
